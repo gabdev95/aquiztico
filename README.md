@@ -6,7 +6,7 @@
   
   O tema escolhido para o <b>Aquiztico</b> foi o Objetivo de Desenvolvimento Sustentável (ODS) 14: Vida na água.
   
-  Baixe o aplicativo: <a href="https://gallery.appinventor.mit.edu/?galleryid=98317e16-9200-4394-ad65-c7feaf0dafb2" target='_blank'> 🔗 <b>Aquiztico</b></a>
+  Baixe o aplicativo: <a target='_blank'; href="https://gallery.appinventor.mit.edu/?galleryid=98317e16-9200-4394-ad65-c7feaf0dafb2"> 🔗 <b>Aquiztico</b></a>
   
 </p>
 
