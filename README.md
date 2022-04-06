@@ -11,7 +11,7 @@
 ### 📌 Visualização do projeto:
 
 <p align="center">
-  <img height="423em" src="/gif/aquiztico.gif">
+  <img src="/gif/aquiztico.gif">
 </p>
 
 <p align="center">
